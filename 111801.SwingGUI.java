@@ -8,7 +8,7 @@ public class App {
         JFrame frame = new JFrame("App");
         frame.setContentPane(new App().mainPanel);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setBounds(100,200,600,300);
+        frame.setBounds(500,500,500,500);
         frame.setVisible(true);
     }
     public static void main(String[] args) {
