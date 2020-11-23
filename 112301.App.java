@@ -12,7 +12,7 @@ public class MathTest {
             y = (int) (Math.random() * 100);
             System.out.println(z + "," + y);
         }else {
-                System.out.println("输入的不是1");
+            System.out.println("输入的不是1");
             }
     }
     }
